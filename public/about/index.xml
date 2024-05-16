@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi there! Welcome. on Elaona Lemoto</title>
-    <link>http://localhost:4812/about/</link>
+    <link>https://elaonalemoto.netlify.app/about/</link>
     <description>Recent content in Hi there! Welcome. on Elaona Lemoto</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:4812/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elaonalemoto.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:4812/about/header/</link>
+      <link>https://elaonalemoto.netlify.app/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4812/about/header/</guid>
-      <description>I&amp;rsquo;m a Hugo theme you&amp;rsquo;ll want to hang out with. &amp;#x1f1eb;&amp;#x1f1f7;&#xA;The page you are reading is based on a markdown file- look in content/about/ to edit. There, look inside the header, main, and sidebar folders to get started building your own &amp;ldquo;about&amp;rdquo; page.</description>
+      <guid>https://elaonalemoto.netlify.app/about/header/</guid>
+      <description>I&amp;rsquo;m a PhD Candidate advised by Dr. Hwanhee Hong in the Duke School of Medicine, Department of Biostatistics &amp;amp; Bioinformatics. I am interested in Bayesian hierarchical modeling in the regards to data integration, but more specifically utilized within comparative effectiveness research. While I work with combing data sources, the primary goal is to better understand and uncover health disparities that is limited through data availability. Simultaneously, I am interested in teaching and ultimately begin able to educate a new generation of statisticians.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:4812/about/sidebar/</link>
+      <link>https://elaonalemoto.netlify.app/about/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4812/about/sidebar/</guid>
+      <guid>https://elaonalemoto.netlify.app/about/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
-      <title>Why apéro?</title>
-      <link>http://localhost:4812/about/main/</link>
+      <title>Lately</title>
+      <link>https://elaonalemoto.netlify.app/about/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4812/about/main/</guid>
+      <guid>https://elaonalemoto.netlify.app/about/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>

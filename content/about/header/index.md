@@ -3,10 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi there! Welcome.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+I'm a PhD Candidate advised by Dr. Hwanhee Hong in the Duke School of Medicine, Department of Biostatistics & Bioinformatics. I am interested in Bayesian hierarchical modeling in the regards to data integration, but more specifically utilized within comparative effectiveness research. While I work with combing data sources, the primary goal is to better understand and uncover health disparities that is limited through data availability. Simultaneously, I am interested in teaching and ultimately begin able to educate a new generation of statisticians.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
