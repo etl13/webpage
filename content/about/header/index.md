@@ -7,5 +7,8 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a PhD Candidate advised by Dr. Hwanhee Hong in the Duke School of Medicine, Department of Biostatistics & Bioinformatics. I am interested in Bayesian hierarchical modeling in the regards to data integration, but more specifically utilized within comparative effectiveness research. While I work with combing data sources, the primary goal is to better understand and uncover health disparities that is limited through data availability. Simultaneously, I am interested in teaching and ultimately begin able to educate a new generation of statisticians.
+Education: 
+ - PhD in Biostatistics Expected May '26; Duke School of Medicine, NC
+ - Post-Bacc. Certificate in Mathematics '21; Smith College, MA
+ - BA in Quantitative Economics and Statistical and Data Science '20; Smith College, MA
 
