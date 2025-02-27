@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks and Posters on Elaona Lemoto</title>
-    <link>https://elaonalemoto.netlify.app/talk/</link>
+    <link>http://localhost:7377/talk/</link>
     <description>Recent content in Talks and Posters on Elaona Lemoto</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 14:15:59 -0600</lastBuildDate>
-    <atom:link href="https://elaonalemoto.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:7377/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bayesian Bias-Adjustment Models in Network Meta-Analysis of COVID-19 trials</title>
-      <link>https://elaonalemoto.netlify.app/talk/second-seedling/</link>
-      <pubDate>Tue, 12 Mar 2024 14:15:59 -0600</pubDate>
-      <guid>https://elaonalemoto.netlify.app/talk/second-seedling/</guid>
+      <title>Bayesian Hierarchical Modeling to Handle Systematically Missing Outcome Data in Meta-Analysis with Individual Patient-Level Data</title>
+      <link>http://localhost:7377/talk/campfire/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7377/talk/campfire/</guid>
       <description></description>
     </item>
     <item>
-      <title>A seedling</title>
-      <link>https://elaonalemoto.netlify.app/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>https://elaonalemoto.netlify.app/talk/seedling/</guid>
+      <title>Using Network Meta-Analysis (NMA) in the estimation of Probability of Success (PoS)</title>
+      <link>http://localhost:7377/talk/novartis/</link>
+      <pubDate>Mon, 26 Aug 2024 08:15:59 -0600</pubDate>
+      <guid>http://localhost:7377/talk/novartis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bayesian Bias-Adjustment Models in Network Meta-Analysis of COVID-19 trials</title>
+      <link>http://localhost:7377/talk/second-seedling/</link>
+      <pubDate>Tue, 12 Mar 2024 08:15:59 -0600</pubDate>
+      <guid>http://localhost:7377/talk/second-seedling/</guid>
       <description></description>
     </item>
   </channel>
