@@ -112,6 +112,11 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 3
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 4
 
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
