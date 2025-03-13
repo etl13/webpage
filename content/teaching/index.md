@@ -7,7 +7,9 @@ show_header: true
 
 ---
 
-Throughout my education, I received teaching experience through being a teaching assistant and teaching individual lectures at both the graduate and undergraduate level.
+# Teaching
+
+Every teaching opportunity, from teaching assistant to visiting instructor, has allowed me to dive deeper into the material at hand to better support students. 
 
 
 # Graduate Courses:
