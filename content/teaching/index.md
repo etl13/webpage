@@ -1,20 +1,16 @@
 ---
-title: Teaching
+title: "Teaching"
 author: Elaona Lemoto
 date: 2024-05-17
 layout: standard
-categories:
-- publication
-tags:
-- paper
----
+show_header: true
 
-# Teaching
+---
 
 Throughout my education, I received teaching experience through being a teaching assistant and teaching individual lectures at both the graduate and undergraduate level.
 
 
-## Graduate Courses:
+# Graduate Courses:
 
 ### Visiting Instructor for Applied Biostatistics Methods I
 
