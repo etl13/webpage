@@ -16,8 +16,7 @@ Throughout my education, I received teaching experience through being a teaching
 
 ## Graduate Courses:
 
-### Applied Biostatistics Methods I
-####Visiting Instructor
+### Visiting Instructor for Applied Biostatistics Methods I
 
 Instructor: Greg Samsa, PhD
 
@@ -25,8 +24,7 @@ Fall 2024
 
 This course provides an introduction to study design, descriptive statistics, and analysis of statistical models with oneor two predictor variables. Topics include principles of study design, basic study designs, descriptive statistics, sampling, contingency tables, one-and two-way analysis of variance, simple linear regression, analysis of covariance. Both parametric and non-parametric techniques are explored. Computational exercises will use the R and SAS packages. 
 
-### R Primer Instructor
-### Department of Population Health Sciences, Duke School of Medicine
+### R Primer Instructor in the Department of Population Health Sciences, Duke School of Medicine
 
 Summer 2023
 
@@ -34,17 +32,7 @@ This comprehensive 8-hour lecture was designed to equip incoming Population Heal
 
 
 
-
-### R Primer Instructor
-#### Department of Population Health Sciences, Duke School of Medicine
-
-Summer 2023
-
-This comprehensive 8-hour lecture was designed to equip incoming Population Health master's students with a strong foundation in R before their in-person instruction. The session covered key aspects of the R Studio interface, introduced various R data types—including integers, characters, lists, and data frames—and provided an overview of graphics, reporting, and modeling to ensure students were well-prepared for their coursework.
-
-
-### Advanced Introduction to Statistical Theory and Methods II
-####Teaching Assistant
+### Teaching Assistant for Advanced Introduction to Statistical Theory and Methods II
 
 Instructor : Roland Matsouaka, PhD
 
@@ -52,8 +40,8 @@ Spring 2023
 
 This course provides formal introduction to the basic theory and methods of probability and statistics. It covers topics in statistical inference, including classical and Bayesian methods, and statistical models for discrete, continuous, and categorical outcomes. Core concepts are mastered through mathematical exploration and simulations. Director of Graduate Studies permission is required.
 
-### Introduction to the Practice of Biostatistics I
-####Teaching Assistant
+### Teaching Assistant for Introduction to the Practice of Biostatistics I
+
 
 Instructor: Jesse Troy, PhD
 
