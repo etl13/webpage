@@ -1,7 +1,7 @@
 ---
 title: "Elaona Lemoto"
 subtitle: "(she/her/hers)"
-description: "I'm a PhD Candidate advised by Dr. Hwanhee Hong in the Duke School of Medicine, Department of Biostatistics & Bioinformatics. I am interested in Bayesian hierarchical modeling in the regards to data integration, but more specifically utilized within comparative effectiveness research. While I work with combining data sources, the primary goal is to better understand and uncover health disparities that is limited through data availability. Simultaneously, I am interested in teaching and mentoring a new generation of statisticians."
+description: "I'm a PhD Candidate advised by Dr. Hwanhee Hong in the Duke School of Medicine, Department of Biostatistics & Bioinformatics. I am interested in Bayesian hierarchical modeling with regards to data integration, but more specifically utilized within comparative effectiveness research. While I work with combining data sources, the primary goal is to better understand and uncover health disparities that is limited through data availability. Simultaneously, I am interested in teaching and mentoring a new generation of statisticians."
 images:
   - img/updated_e.jpg
 image_left: true
